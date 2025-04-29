@@ -1,14 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 
-import QuickBooks from '/logo/QuickBooks.png';
-import Stripe from '/logo/Stripe.png';
-import Xero from '/logo/Xero.png';
-import SAP from '/logo/SAP.png';
-import Salesforce from '/logo/Salesforce.png';
-import Oracle from '/logo/Oracle.png';
-import Bloomberg from '/logo/Bloomberg.png';
-import PayPal from '/logo/PayPal.png';
+
 
 const logos = [
   { src: QuickBooks, alt: 'QuickBooks' },
